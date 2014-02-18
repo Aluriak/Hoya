@@ -1,20 +1,20 @@
 # HOYA
-A python projets manager.
+A python projects manager.
 
 ## INTRODUCTION
-I decide to do one project per month.
-The first of them is the coding of the program that manage the results on computer.  
+I decided to do one project per month.
+The first of them is to code of the program that manage the projects on computer.  
   
-Each project start at the beginning of a month, and finish when the next one begin.  
-A project have a name, and a goal.  
+Each project starts at the beginning of a month, and finishes when the next one begins.  
+A project has a name, and a goal.  
 
-A good project is a project where i learn things, and where i product a useful thing.
+A good project is a project during which i learn things, and product a useful thing.
 
 
 ## MUST DO
 - have a list of all projects : date + name + quick description;
-- generate squelette of new projects, according to last project date;
-- do it with python and arrow, path modules;
+- generate skeleton for new projects, according to last project date;
+- be written in python and arrow, path modules;
 
 ## TODO LIST
 
@@ -24,6 +24,6 @@ A good project is a project where i learn things, and where i product a useful t
 - main classes;
 - help;
 - main interface;
-- squelette projects generation (copy of model directory).
+- projects skeleton generation (copy of model directory).
 
 
